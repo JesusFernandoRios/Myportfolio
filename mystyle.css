@@ -1,3 +1,7 @@
+
+
+
+
 Header  {
     text-align: left;
     font-family: 'Squada One', cursive;
@@ -12,5 +16,5 @@ Header  {
 }
 
 body {
-    
+    background-image: url(WhiteBackground.jpg);
 }
