@@ -12,3 +12,8 @@
 
 # 05/19/30
 - Created second col for social media links
+- Scraped Whole website, did not like design
+
+#  05/19/20
+- created new layout for My Portfolio website
+- git pushed new layout and design for My portfolio website

@@ -1,10 +1,10 @@
 body {
-    background-color:rgba(80, 79, 79, 0.63);
+    background-color:white;
 }
 
 img {
     display: block;
-    max-width: 50%;
+    max-width: 70%;
     height: auto;
     border: 2px solid black
   }
@@ -14,7 +14,13 @@ form {
     margin: 10px
     }
 
-footer {
+.footerjumbo {
     background-color: #212529;
-    color:white;
+    margin-bottom: 0;
+    
 }
+.footerp {
+    color: white;
+}
+
+
