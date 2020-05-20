@@ -19,3 +19,4 @@
 - git pushed new layout and design for My portfolio website
 - added social media icons
 - started adding Comments on Layout
+- Added Images For jumbotron index
