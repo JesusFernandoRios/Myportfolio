@@ -10,7 +10,7 @@
 - Added Navbar with navigation links
 - Styled Navbar
 
-# 05/19/30
+# 05/19/20
 - Created second col for social media links
 - Scraped Whole website, did not like design
 
