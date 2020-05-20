@@ -17,3 +17,5 @@
 #  05/19/20
 - created new layout for My Portfolio website
 - git pushed new layout and design for My portfolio website
+- added social media icons
+- started adding Comments on Layout

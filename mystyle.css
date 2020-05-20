@@ -1,6 +1,4 @@
-body {
-    background-color:white;
-}
+
 
 img {
     display: block;
@@ -10,10 +8,17 @@ img {
   }
 
 form {
-    
     margin: 10px
-    }
+}
 
+
+/* Footer CSS */
+
+
+.jumbotron-fluid {
+    margin:0;
+    height: 50px;
+}
 .footerjumbo {
     background-color: #212529;
     margin-bottom: 0;
@@ -24,7 +29,7 @@ form {
     color: white;
 }
 
-
+/* Footer CSS */
 
 
 /* Social Media Links CSS */
@@ -58,4 +63,5 @@ form {
     color: white;
 }
 
+/* Social Media Links CSS */
 
