@@ -20,3 +20,6 @@
 - added social media icons
 - started adding Comments on Layout
 - Added Images For jumbotron index
+- removed helloworld image wrong file
+- added "project" image for myportfolio
+- worked on header designs
