@@ -23,3 +23,6 @@
 - removed helloworld image wrong file
 - added "project" image for myportfolio
 - worked on header designs
+
+# 05/20/20
+- 

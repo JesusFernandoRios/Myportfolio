@@ -1,3 +1,8 @@
+body {
+
+    background-size: cover;
+}  
+
 /* Headers CSS */
 
 
@@ -8,10 +13,11 @@
 .indexheader {
     background-image: url(Earth.jpg); 
     background-size: cover;
+
 }
 
 .portfolioheader {
-    background-color: darkslateblue;
+    background-color:darkslategrey;
 }
 
 
@@ -41,7 +47,7 @@ form {
 /* Footer CSS */
 
 
-.jumbotron-fluid {
+.footer {
     margin:0;
     height: 50px;
 }
