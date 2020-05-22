@@ -17,7 +17,7 @@ body {
 }
 
 .portfolioheader {
-    background-color:darkslategrey;
+    background-color: lightskyblue;
 }
 
 
@@ -34,9 +34,10 @@ body {
 
 /* Forms And Letters CSS */
 
-
-.display-4 {
-    color:whitesmoke;
+.headerfont {
+    font-family: 'Old Standard TT', serif;
+    color: white;
+    text-decoration: white;
 }
 
 form {

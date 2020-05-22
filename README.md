@@ -24,5 +24,12 @@
 - added "project" image for myportfolio
 - worked on header designs
 
-# 05/20/20
-- 
+# 05/21/20
+- Worked on final touches for footer before adding content
+- add Fonts for content
+- Functioning Social media links
+- Created Images folder, tansfered images
+
+# 05/22/20
+- Fixed fonts and color for headers
+- changed image for about me
