@@ -36,3 +36,4 @@
 - replaced About me footer to a sticky footer
 - Made final touches to all pages, made more accessible
 - Changed Title for respective pages
+- Corrected typo on personal bio
