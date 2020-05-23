@@ -33,3 +33,4 @@
 # 05/22/20
 - Fixed fonts and color for headers
 - changed image for about me
+- replaced About me footer to a sticky footer
