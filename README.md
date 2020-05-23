@@ -34,3 +34,4 @@
 - Fixed fonts and color for headers
 - changed image for about me
 - replaced About me footer to a sticky footer
+- Made final touches to all pages, made more accessible
