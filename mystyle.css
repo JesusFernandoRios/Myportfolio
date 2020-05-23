@@ -1,7 +1,3 @@
-body {
-
-    background-size: cover;
-}  
 
 /* Headers CSS */
 
@@ -47,12 +43,6 @@ form {
 
 /* Footer CSS */
 
-
-.footer {
-    margin:0;
-    height: 50px;
-}
-
 .footerjumbo {
     background-color: black;
     margin-bottom: 0;
@@ -63,9 +53,6 @@ form {
     text-align: center;
     color: white;
 }
-
-/* Footer CSS */
-
 
 /* Social Media Links CSS */
 
