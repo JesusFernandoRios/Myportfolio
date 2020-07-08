@@ -33,6 +33,12 @@
 
 /* Forms And Letters CSS */
 
+.body {
+    background-color:rgb(183, 185, 185);
+}
+
+
+
 .headerfont {
     font-family: 'Old Standard TT', serif;
     color: white;
