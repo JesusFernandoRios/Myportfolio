@@ -20,6 +20,9 @@
 
 /* Images CSS */
 
+.card-img-top {
+    border: solid 2px black;
+}
 
 .mypic {
     display: block;
